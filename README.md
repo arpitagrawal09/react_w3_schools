@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Official Create React App. Multiple branches for multiple projects.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
